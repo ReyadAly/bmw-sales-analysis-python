@@ -26,7 +26,7 @@ Python EDA analyzing 50,000 BMW car sales records: revenue, regional performance
 - Revenue peaked at **$1.34 trillion in 2022**, a 6.5% increase over 14 years
 - Regional distribution is nearly **equal across 6 regions** (~16-17% each)
 - **Hybrid leads** fuel type sales (64.5M units), Diesel trails (62.4M)
-- Top revenue engines: **2.5L and 1.9L** — smallest/largest engines contribute least
+- Top revenue engines: **2.5L and 1.9L**, smallest/largest engines contribute least
 - Higher-mileage vehicles (150k+ km) generate the **most total revenue ($4.80T)**
 
 ## Data Engineering
