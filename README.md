@@ -1,5 +1,5 @@
 # bmw-sales-analysis-python
-Python EDA analyzing 50,000 BMW car sales records: revenue, regional performance, model pricing, fuel types, and sales classification.
+Python project analyzing 50,000 BMW car sales records: revenue, regional performance, model pricing, fuel types, and sales classification.
 
 
 **Date:** 17th May, 2026  
